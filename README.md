@@ -30,5 +30,5 @@ Burada benim serüvenimi göreceksiniz — şu anda **siber güvenlik** alanınd
 ---
 
 ### 📫 İletişim
-- GitHub: `@<alpdevx>`  
+- GitHub: `@alpdevx`  
 - LinkedIn / www.linkedin.com/in/hamza-alp-9a1b29395
