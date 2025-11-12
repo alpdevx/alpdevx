@@ -6,5 +6,5 @@ Nowadays, I'm focusing on improving myself in the field of cyber security.
 Here, you'll find my journey
 The projects and experiments thats reflect my growth and passion for tech
 
-
+###SKİLLS
 
