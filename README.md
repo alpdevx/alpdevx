@@ -2,7 +2,8 @@
 
 
 Ben **Python, PHP, C** programlama temelli bir siber güvenlik tutkunuyum. 🔒  
-Burada benim serüvenimi göreceksiniz — şu anda **siber güvenlik** alanında kendimi geliştiriyorum ve pratik yapıyorum. 🚀
+Burada benim serüvenimi göreceksiniz — şu anda **siber güvenlik** alanında kendimi geliştiriyorum ve pratik yapıyorum ve insanlara YouTube üzerinden Ücretsiz Eğitim Sağlıyorum 
+YouTube Kanalım: https://www.youtube.com/@siberakademy . 🚀
 
 ---
 
