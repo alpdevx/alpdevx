@@ -32,4 +32,4 @@ Burada benim serüvenimi göreceksiniz — şu anda **siber güvenlik** alanınd
 ### 📫 İletişim
 - GitHub: `@alpdevx`  
 - LinkedIn / www.linkedin.com/in/hamza-alp-9a1b29395
-- https://www.youtube.com/@siberakademy
+- YouTube: https://www.youtube.com/@siberakademy
